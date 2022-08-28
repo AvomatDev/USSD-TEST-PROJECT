@@ -14,5 +14,5 @@ else if(opt==3){
     let dispense=alert("Your " + amt +" transfer to " + acc + " was successful")
     }
     
-else(alert("Transaction not avaialable"))
+else(alert("Transaction not available"))
 
